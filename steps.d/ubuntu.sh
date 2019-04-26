@@ -10,5 +10,6 @@ function installAptPackages() {
                            libgdbm-dev postgresql-10 pgadmin4 zsh i3 direnv \
                            autojump ubuntu-drivers-common mesa-utils \
                            mesa-utils-extra gnupg numlockx xautolock scrot \
-                           xorg xserver-xorg wget unzip wpasupplicant
+                           xorg xserver-xorg wget unzip wpasupplicant lightdm \
+                           xautolock rofi dmenu
 }
