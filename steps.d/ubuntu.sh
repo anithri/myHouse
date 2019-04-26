@@ -8,5 +8,7 @@ function installAptPackages() {
                            bison libssl-dev libyaml-dev libreadline6-dev \
                            zlib1g-dev libncurses5-dev libffi-dev libgdbm5 \
                            libgdbm-dev postgresql-10 pgadmin4 zsh i3 direnv \
-                           autojump
+                           autojump ubuntu-drivers-common mesa-utils \
+                           mesa-utils-extra gnupg numlockx xautolock scrot \
+                           xorg xserver-xorg wget unzip wpasupplicant
 }
