@@ -10,4 +10,4 @@ installOhMyZsh
 installLiquidprompt
 installI3wm
 installPolybar
-installPostgres
+#installPostgres

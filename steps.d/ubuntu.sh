@@ -7,9 +7,9 @@ function installAptPackages() {
                            dirmngr gpg openssh-client openssh-server autoconf \
                            bison libssl-dev libyaml-dev libreadline6-dev \
                            zlib1g-dev libncurses5-dev libffi-dev libgdbm5 \
-                           libgdbm-dev zsh i3 direnv \
+                           libgdbm-dev zsh direnv \
                            autojump ubuntu-drivers-common mesa-utils \
                            mesa-utils-extra gnupg numlockx xautolock scrot \
-                           xorg xserver-xorg wget unzip wpasupplicant lightdm \
+                           wget unzip wpasupplicant lightdm \
                            xautolock rofi dmenu
 }
